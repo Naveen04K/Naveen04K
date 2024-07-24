@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/naveen04k/)" target="blank">
+  <a href="https://www.linkedin.com/in/naveen04k/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://twitter.com/yourprofile" target="blank">
